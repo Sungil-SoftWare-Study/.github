@@ -53,22 +53,18 @@
 - 단장 : [itsjay83](https://github.com/itsjay83) : 성일정보고등학교 재학 : 이제석
 - [lelo52](https://github.com/lelo52) : (주)유플러스시스템 :김지호
 - [kkwabaegi](https://github.com/kkwabaegi) : 성일정보고등학교 재학 : 손은규
-- [JJUN1204](https://github.com/JJUN1204) : (주)에스티엔인포텍 : 박준호
 - [eunkyo3](https://github.com/eunkyo3) : (주)에니셀 : 정은교
-- [dlclfh0404](https://github.com/dlclfh0404) : (주)에니셀 :이화준
 - [minseok06](https://github.com/minseok06) : 성일정보고등학교 재학 : 양민석
-- [Qnd1101](https://github.com/Qnd1101) : (주)에니셀 : 김민준
 - [hwan06](https://github.com/hwan06) : (주)에니셀 : 최환
-- [seokhyun06](https://github.com/seokhyun06) : 성일정보고등학교 재학 : 김석현
 
 ### 활동기록
-- 2022 Intel A.I for Youth Program 참여 : 이제석, 박준호
-- 2022 삼성 주니어 SW 아카데미 참여 : 이제석, 손은규, 박준호
-- 2023 지방 기능 경기 대회 게임 개발 출전 : 이제석, 손은규, 박준호
+- 2022 Intel A.I for Youth Program 참여 : 이제석
+- 2022 삼성 주니어 SW 아카데미 참여 : 이제석, 손은규
+- 2023 지방 기능 경기 대회 게임 개발 출전 : 이제석, 손은규
 - 2023 교내 프로그래밍 경진대회 금상 : 최 환
 - 2023 교내 프로그래밍 경진대회 은상 : 이제석
-- 2023 교내 프로그래밍 경진대회 동상 : 김지호, 박준호, 정은교
-- 2023 중기청 일본 국외 연수 : 이제석, 박준호
+- 2023 교내 프로그래밍 경진대회 동상 : 김지호, 정은교
+- 2023 중기청 일본 국외 연수 : 이제석
 - 2023 Devfest Songdo 2023 참여 : 이제석
 - 2023 현대 오토에버 경진대회 입상 : 정은교
 - 2024 가짜 연구소 8기 러너 : 이제석
