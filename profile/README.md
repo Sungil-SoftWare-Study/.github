@@ -51,7 +51,7 @@
 ### 2기
 - 단장 : [itsjay83](https://github.com/itsjay83) : 가천대학교 재학 : 이제석
 - [lelo52](https://github.com/lelo52) : (주)유플러스시스템 :김지호
-- [kkwabaegi](https://github.com/kkwabaegi) : 성일정보고등학교 재학 : 손은규
+- [kkwabaegi](https://github.com/kkwabaegi) : 아주대학교 재학 : 손은규
 - [eunkyo3](https://github.com/eunkyo3) : (주)에니셀 : 정은교
 - [minseok06](https://github.com/minseok06) : 성일정보고등학교 재학 : 양민석
 - [hwan06](https://github.com/hwan06) : (주)에니셀 : 최환
