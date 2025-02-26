@@ -55,7 +55,7 @@
 - [eunkyo3](https://github.com/eunkyo3) : (주)에니셀 : 정은교
 - [minseok06](https://github.com/minseok06) : 성일정보고등학교 재학 : 양민석
 - [hwan06](https://github.com/hwan06) : (주)에니셀 : 최환
-- [hwan06](https://github.com/wonjun17234) : 숭실대학교 재학 : 이원준
+- [wonjun17234](https://github.com/wonjun17234) : 숭실대학교 재학 : 이원준
 
 ### 활동기록
 - 2022 Intel A.I for Youth Program 참여 : 이제석
